@@ -1,5 +1,0 @@
-{
-  "buildCommand": "hugo",
-  "outputDirectory": "public",
-  "framework": "other"
-}
