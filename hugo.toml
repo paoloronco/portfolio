@@ -1,0 +1,32 @@
+baseURL = "https://portfolio-roncop.vercel.app/"
+languageCode = "en-us"
+title = "Paolo Ronco Portfolio"
+theme = "hugo-PaperMod"
+enableRobotsTXT = true
+summaryLength = 30
+
+[params.homeInfoParams]
+  Title = "Paolo Ronco Portfolio"
+  Content = "Every project in this section tells something about me: my curiosity, eagerness to learn, and passion for what I do. Personal Website: https://paoloronco.it"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Portfolio Personale"
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowPostTitle = true
+  ShowPostReadMore = true
+  hideSummary = false
+  disableSpecial1stPost = true
+  ShowPostExcerpt = true
+
+
+[menu]
+  [[menu.main]]
+    identifier = "mainwebsite"
+    name = "Main Website"
+    url = "https://paoloronco.it"
+    weight = 10
+
