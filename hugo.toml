@@ -1,7 +1,7 @@
 baseURL = "https://portfolio-roncop.vercel.app/"
 languageCode = "en-us"
 title = "Paolo Ronco Portfolio"
-theme = "hugo-PaperMod"
+theme = "PaperMod"
 enableRobotsTXT = true
 summaryLength = 30
 
